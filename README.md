@@ -1,6 +1,6 @@
 ## MSF-Oneliner
 
-Concept behind msf-oneliner is simple, its just making thing done faster with metasploit framework. 
+Concept behind msf-oneliner is simple, its just generate a faster input listener and auto-pasting it into the Metasploit framework.
 
 ### Installation
 ```
