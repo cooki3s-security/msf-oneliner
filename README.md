@@ -4,7 +4,7 @@ Concept behind msf-oneliner is simple, its just making thing done faster with me
 
 ### Installation
 ```
-git clone
+git clone https://github.com/cooki3s-security/msf-oneliner
 pip install -r requirements.txt
 python3 msf-ol.py
 ```
